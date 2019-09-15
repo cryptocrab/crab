@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am cryptocrab on github.
+  * I am cryptocrab (https://keybase.io/cryptocrab) on keybase.
+  * I have a public key ASCUCsnz9ldcID-SnCBPSUpe499OypXnSelo_SWv8gkIdwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120940ac9f3f6575c203f929c204f494a5ee3df4eca95e749e968fd25aff20908770a",
+      "host": "keybase.io",
+      "kid": "0120940ac9f3f6575c203f929c204f494a5ee3df4eca95e749e968fd25aff20908770a",
+      "uid": "56eb19d2c57d9accdde273947c338c19",
+      "username": "cryptocrab"
+    },
+    "merkle_root": {
+      "ctime": 1568549056,
+      "hash": "b0ac5a121ceb80cbabd850e255aa3efcd10ff901d274c7ead0fa64afc8c5c7dc6b0eee2594a1957077869875ed176b4d064761a80b6cfb6c2da8ff59372cde40",
+      "hash_meta": "9612041f984e753936670ff91aa4d907e1130d7c74ffd7fa1627aaf593651b46",
+      "seqno": 7390063
+    },
+    "service": {
+      "entropy": "iqMQVromrW31G3VC/8sTNMNz",
+      "name": "github",
+      "username": "cryptocrab"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568549069,
+  "expire_in": 504576000,
+  "prev": "5d3b4b3dbbdf544bc79f73d8bca79e8be4a61771365d0052ca939a99c5475d83",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCUCsnz9ldcID-SnCBPSUpe499OypXnSelo_SWv8gkIdwo](https://keybase.io/cryptocrab), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEglArJ8/ZXXCA/kpwgT0lKXuPfTsqV50npaP0lr/IJCHcKp3BheWxvYWTESpcCBcQgXTtLPbvfVEvHn3PYvKeei+SmF3E2XQBSypOamcVHXYPEII5TQQAEtEfZeygBCTr4X6vnoMBRvzq34P+Z1LxTuPEdAgHCo3NpZ8RAguoi3ry4shdcYPKZJLgqyDeFF3FJDWxvrOheWLHlRricOb6A++odCXBR1nT9jiUhaX5BmFyxw5Co2HFyRS1BCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIF1ZqrEQ9i7J7hQ//ayYX6jsy/pEijwO5SA+PSpxyQVWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/cryptocrab
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id cryptocrab
+```
